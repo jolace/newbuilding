@@ -5,7 +5,10 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "5.0.*"
+		"laravel/framework": "5.0.*",
+		"bican/roles": "2.1.*",
+        "yajra/laravel-datatables-oracle": "5.11.8",
+        "vsmoraes/laravel-pdf": "1.0.1"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
